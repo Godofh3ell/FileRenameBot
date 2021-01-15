@@ -75,7 +75,7 @@ async def start(bot, update):
                 ],
                 [
                     InlineKeyboardButton('Others', url='https://t.me/TSNM_CHNLS'),
-                    InlineKeyboardButton('Source', url='https://github.com/Godofh3ell /FileRenameBot')
+                    InlineKeyboardButton('Source', url='https://t.me/joinchat/MFPEc0YRiJqBFvYUtPgNVQ')
                 ]
             ]
         ),
